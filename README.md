@@ -1,6 +1,7 @@
 # t2024-2-1
 ## Programming language used: Python
 
+### Breif description :
 Problem 1: Calculator
 Functionality: Implements a simple calculator that performs basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 Input: Two floating-point numbers (a, b) and a string indicating the type of operation.
