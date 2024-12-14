@@ -7,5 +7,4 @@ def generate_modified_series(a):
             series.append(2 * i - 1)
     return series
 
-# Example usage
 print(generate_modified_series(5))
