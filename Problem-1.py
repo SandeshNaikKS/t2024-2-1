@@ -20,6 +20,5 @@ class Calculator:
         else:
             return "Invalid operation"
 
-# Example usage
 calc = Calculator(10.5, 2.5, 'Addition')
 print(calc.calculate())
