@@ -1,5 +1,5 @@
 # t2024-2-1
-Programming language used: Python
+##Programming language used: Python
 
 Problem 1: Calculator
 Functionality: Implements a simple calculator that performs basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
@@ -24,6 +24,6 @@ Functionality: Counts the number of elements in a list that are multiples of int
 Input: A list of integers.
 Output: A dictionary where keys are integers (1 to 9), and values are their respective counts of multiples.
 Implementation: The function count_multiples() iterates over the list, checking divisibility for each number.
-
+```
 
 
